@@ -3,7 +3,7 @@ ABOUT PROJECT :
 
 PROJECT DESCRIPTION :
 
-This is an online book store (of Admin point of view) and moreover a book management system where we can keep track or manage our books as it gives us an access to view, add and delete books. This is a single page application (SPA) seperated into three secions, particularly - Search Books, Add Books and Book List. We can navigate among these sections via links provided
+This is an online book store (of Admin point of view) and moreover a book management system where we can keep track or manage our books as it gives us an access to view, add and delete books. This is a single page application (SPA) separated into three sections, particularly - Search Books, Add Books and Book List. We can navigate among these sections via links provided
 at the top of navbar, search books based on their any provided attribute be it their Id, Title or Author name and we can also get the books based on two filters which are maximum price and minimum rating, we can also delete the book from the data base with the help of delete button which is available with each book entry and add the book into the data base through add book form.
 
 WHY I CHOSE THIS PROJECT :
